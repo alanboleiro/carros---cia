@@ -1,0 +1,72 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.topo-fixed {
+  color: #ecb72d;
+  text-align: center;
+  padding: 20px 0;
+  background-color: black;
+  border-bottom: 1px solid #ecb72d;
+  position: fixed;
+  width: 100%;
+  font-size: 14px;
+}
+
+.topo-fixed a {
+  color: #ecb72d;
+  margin: 0 10px;
+  line-height: 25px;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.compartilhada {
+  margin: 3% 30%;
+  text-align: center;
+}
+
+.compartilhada p {
+  text-align: justify;
+}
+
+.compartilhada img {
+  width: 300px;
+  margin: 20px 0;
+}
+
+.compartilhada span {
+  color: #ecb72d;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+}
+
+.rodape p {
+  background-color: rgba(0, 0, 0, 0.897);
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  width: 600px;
+  margin-left: 651px;
+  margin-top: -40px;
+  padding: 15px 0;
+}
+
+.rodape span {
+  color: #ecb72d;
+  font-weight: bold;
+}
+
+.compartilhada a,
+.rodape a {
+  text-decoration: none;
+  border-bottom: 2px solid #ecb72d;
+}
